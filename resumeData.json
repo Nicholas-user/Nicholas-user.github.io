@@ -1,0 +1,119 @@
+{
+    "main": {
+        "name": "Nicholas Puente",
+        "description": "Soon to be programmer, webdesigner.",
+        "image": "coursera pfp.jpg",
+        "bio": "working on webdesign with javascript and react I also have expirence with python",
+        "contactmessage": "you can contact me through my email and check out my github projects in the links below",
+        "email": "nikonshade@gmail.com",
+        "phone": "N/A",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "N/A",
+            "city": "NYC",
+            "state": "NY"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "",
+                "degree": "",
+                "graduated": "",
+                "description": "yes"
+            },
+            {
+                "school": "",
+                "degree": "",
+                "graduated": "",
+                "description": ""
+            }
+        ],
+        "work": [
+            {
+                "company": "none",
+                "title": "",
+                "years": "",
+                "description": ""
+            },
+            {
+                "company": "",
+                "title": "",
+                "years": "",
+                "description": ""
+            },
+            {
+                "company": "",
+                "title": "",
+                "years": "",
+                "description": ""
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "79%"
+            },
+            {
+                "name": "VueJs",
+                "level": "0%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "70%"
+            },
+            {
+                "name": "CSS",
+                "level": "60%"
+            },
+            {
+                "name": "JAVA",
+                "level": "0%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Creating This Website",
+                "category": "Javascript",
+                "image": "imagep.jpg",
+                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            },
+            {
+                "title": "Dentist Program",
+                "category": "Collaborative Project React",
+                "image": "yes.jpg",
+                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            },
+            {
+                "title": "Createing a Python Application using MySQL",
+                "category": "Python",
+                "image": "ppcheese.jpg",
+                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            },
+            {
+                "title": "Python Game - hangman",
+                "category": "This project was the game hangman created in python",
+                "image": "hangman.jpg",
+                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            }
+        ]
+    }
+}
